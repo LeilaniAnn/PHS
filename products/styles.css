@@ -1,0 +1,266 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* RESET */
+
+html, body, div, span, applet, object, iframe,
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+
+a, abbr, acronym, address, big, cite, code,
+
+del, dfn, em, img, ins, kbd, q, s, samp,
+
+small, strike, strong, sub, sup, tt, var, u, i, center,
+
+dl, dt, dd, ol, ul, li,
+
+fieldset, form, label, legend,
+
+article, aside, canvas, details, embed, 
+
+figure, figcaption, footer, header, hgroup, 
+
+menu, nav, output, ruby, section, summary,
+
+time, mark, audio, video {
+
+	margin: 0;
+
+	padding: 0;
+
+	border: 0;
+
+	/*font-size: 100%;*/
+
+	font: inherit;
+
+	vertical-align: baseline;
+
+
+
+}
+
+/* HTML5 display-role reset for older browsers */
+
+article, aside, details, figcaption, figure, 
+
+footer, header, hgroup, menu, nav, section {
+
+	display: block;
+
+}
+
+
+body {
+	width:100%;
+	margin:0 auto;
+	font-family: 'Montserrat', sans-serif;
+	font-size:80%;
+}
+#product-info-page{
+padding:50px;}
+
+ul {
+	list-style-position:inside;
+}
+
+li {
+	line-height:1.5;
+}
+
+.size {
+	padding-left:5%;
+	margin-bottom:0;
+}
+
+.size li {
+	display:inline;
+	list-style:none;
+	color: #4d4d4d;
+}
+
+.upc {
+	font-style:italic;
+}
+
+p {
+	line-height:1.5;
+	padding:.5% 0 .5% 0;
+	
+}
+
+h1 {
+	font-size:125%;
+	font-weight:bold;
+}
+
+h2 {
+	display:inline;
+	font-weight:bold;
+	font-size:112%;
+}
+
+ul {
+	margin-bottom:2%;
+}
+
+.blue {
+	border-color:#00aeed;
+}
+
+.nasc {
+	float:left;
+	margin-right:2%;
+}
+
+.downloads li {
+	list-style:none;
+}
+
+.muted a:link, .muted a:visited, a:link.muted, a:visited.muted {
+	color:#4d4d4d;
+	text-decoration:none;
+}
+
+.muted a:hover, a:hover.muted {
+	text-decoration:underline;
+}
+
+sup {
+	font-size:70%;
+	vertical-align: super;
+}
+
+.clear-left {
+	display:block;
+}
+
+.ingredients {
+	background-color:#ffffff;
+	border:2px solid #f2f2f2;
+	width:95%;
+	border-collapse: collapse;
+	font-size:75%;
+}
+
+.ingredients td {
+	padding:3px 7px;
+}
+
+.even {
+	background-color:#f6f6f6;
+}
+
+.align-right {
+	text-align:right;
+}
+
+strong {
+	font-weight:bold;
+}
+
+.col-1 {
+	width:32%;
+	float:left;
+}
+
+.col-2 {
+	width:67%;
+	float:right;
+}
+
+.sidebar {
+	padding:7%;
+}
+
+figure {
+	padding:3% 0 0 0;
+}
+
+blockquote {
+	line-height:1.5;
+}
+
+figcaption {
+	font-style: italic;
+	margin-top:2%;
+}
+
+a:link.bright, a:visited.blue  {
+	color:#00aeed;
+	text-decoration:none;
+}
+
+.small {
+	font-size:75%;
+}
+
+a.small {
+	margin-top:5%;
+}
+
+.downloads {
+	float:left;
+}
+
+.second-ul {
+	margin-left:10%;
+}
+
+.downloads li {
+	line-height:2;
+}
+
+.maintenance {
+	background-color:#fff;
+	border: 2px solid #f2f2f2;
+	border-collapse: collapse;
+	margin-top:1%;
+	font-size:90%;
+}
+
+.maintenance th {
+	background-color:#f6f6f6;
+	padding:10px;
+}
+
+.maintenance td {
+	padding:7px;
+	border:1px solid #f2f2f2;
+}
+
+.adobe {
+	clear:both;
+	margin:0 auto;
+}
+
+.center {
+	text-align:center;
+}
+
+.block {
+	display:block;
+}
+
+.website {
+	text-align:center;
+	margin-top:3%;
+}
+
+
+hr {
+	margin-bottom:3%;
+}
+
+table.numbers {
+	margin:1.5% 5%;
+	font-size:95%;
+	color:#4d4d4d;
+	width:85%;
+	max-width:490px;
+}
+
+.numbers td {
+	padding:1.5% 2%;
+}
