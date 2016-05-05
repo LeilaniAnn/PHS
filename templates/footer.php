@@ -43,9 +43,9 @@
     <ul>
         <li>Contact</li>
         <li>Privacy Policy</li>
-        <li class="last">Connect: <img src="../img/pet-health-solutions-facebook-icon.png" width="33" height="33" alt="Pet Health Solutions Facebook Icon" class="facebook"></li>
+        <li class="last">Connect: <img src="img/pet-health-solutions-facebook-icon.png" width="33" height="33" alt="Pet Health Solutions Facebook Icon" class="facebook"></li>
     </ul>
-    <img src="../img/national-animal-supplement-council-logo.png" width="100" height="74" alt="National Animal Supplement Council Approved Products">
+    <img src="img/national-animal-supplement-council-logo.png" width="100" height="74" alt="National Animal Supplement Council Approved Products">
 </div>
 <!--  End Footer Section  -->
 </body>

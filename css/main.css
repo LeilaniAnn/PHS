@@ -75,6 +75,8 @@ header{
 header .logo{
 	display: table-cell;
 	padding:10px;
+	margin-top:20px;
+	background-color: white;
 }
 
 header .burger_icon{

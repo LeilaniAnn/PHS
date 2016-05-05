@@ -120,22 +120,22 @@
                 <div class="col-md-3">
                     <a href="https://www.mwivet.com/" target="_blank"><img alt="MWI Animal Health"
                         class="distr img-thumbnail" src=
-                        "../img/mwi.jpg"></a>
+                        "img/mwi.jpg"></a>
                 </div>
                 <div class="col-md-3">
                     <a href="http://www.ceva.us/" target="_blank"><img alt="Ceva Animal Health"
                         class="distr img-thumbnail" src=
-                        "../img/ceva_logo.jpg"></a>
+                        "img/ceva_logo.jpg"></a>
                 </div>
                 <div class="col-md-3">
                     <a href="http://www.animalhealthinternational.com/" target="_blank"><img alt="Animal Health International"
                         class="distr img-thumbnail" src=
-                        "../img/AHII-final-logo-small.jpg"></a>
+                        "img/AHII-final-logo-small.jpg"></a>
                 </div>
                 <div class="col-md-3">
                     <a href="https://www.henryscheinvet.com/" target="_blank"><img alt="Henry Schein Animal Health"
                         class="distr img-thumbnail" src=
-                        "../img/1351935v3v1.jpg"></a>
+                        "img/1351935v3v1.jpg"></a>
                 </div>
             </div>
         </div>

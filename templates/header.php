@@ -47,9 +47,9 @@
                 var total_images = 3;
                 var random_number = Math.floor((Math.random()*total_images));
                 var random_img = new Array();
-                random_img[0] = '<a href="#"><img src="../img/joint-max-hip-joint-animal-supplement.png"></a>';
-                random_img[1] = '<a href="#"><img src="../img/proflora-enzymes-probiotics-dogs-cats.png"></a>';
-                random_img[2] = '<a href="#"><img src="../img/shed-pro-skin-coat-dogs.png"></a>';
+                random_img[0] = '<a href="#"><img src="img/joint-max-hip-joint-animal-supplement.png"></a>';
+                random_img[1] = '<a href="#"><img src="img/proflora-enzymes-probiotics-dogs-cats.png"></a>';
+                random_img[2] = '<a href="#"><img src="img/shed-pro-skin-coat-dogs.png"></a>';
                 document.write(random_img[random_number]);
                 </script>
             </p>    
